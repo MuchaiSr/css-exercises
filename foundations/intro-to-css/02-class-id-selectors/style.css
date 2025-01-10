@@ -1,0 +1,18 @@
+/* style.css */
+
+.class {
+background-color: #ffc0cb;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-green {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#id-white {
+    color: #0000ff;
+    background-color: #ffffff;
+    font-size: 36px;
+}
